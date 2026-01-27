@@ -113,7 +113,7 @@ D02_LinuxNetwork/
 ## 🔗 Связанные проекты
 
 - [**D01 - Основы администрирования Linux**](https://github.com/Swarthma/D01_Linux)
-- [**D03 - Мониторинг Linux v1.0**](https://github.com/Swarthma/D03_LinuxMonitoring)
+- [**D03 - Мониторинг Linux v1.0**](https://github.com/Swarthma/D03_LinuxMonitoring_v1)
 - [**D04 - Мониторинг Linux v2.0**](https://github.com/Swarthma/D04_LinuxMonitoring)
 - [**D05 - Основы Docker**](https://github.com/Swarthma/D05_SimpleDocker)
 
